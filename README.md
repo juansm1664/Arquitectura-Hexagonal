@@ -11,4 +11,4 @@ En lugar de hacer uso explícito y mediante el principio de inversión de depend
 
 - Obliga a que nuestro dominio no esté acoplado a nada externo mediante el uso de interfaces propias de nuestro dominio que son implementadas por elementos externos.
 
-[![diagrama-Arqui-Hexagonal.png](https://i.postimg.cc/G2qcWdzc/diagrama-Arqui-Hexagonal.png)](https://postimg.cc/xJNDHrW7)
+[![diagrama-Arqui-Hexagonal.png](https://i.postimg.cc/8PVSZFTh/diagrama-Arqui-Hexagonal.png)](https://postimg.cc/MXtNTpMT)
