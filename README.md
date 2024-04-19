@@ -1,5 +1,5 @@
-##Arquitectura Hexagonal
-Es ttambién conocida como arquitectura de puertos y adaptadores., 
+### Arquitectura Hexagonal
+La arqui. Hexagonal, es también conocida como arquitectura de puertos y adaptadores, 
 tiene como principal motivación separar nuestra aplicación en distintas capas o regiones con su propia responsabilidad. 
 De esta manera consigue desacoplar capas de nuestra aplicación permitiendo que evolucionen de manera aislada. Además, 
 tener el sistema separado por responsabilidades nos facilitará la reutilización.
